@@ -1,4 +1,7 @@
-</br><h1>Launch the application on Android device
+To run the app on any android device:
+Go to directory: GitHubExplorer\app\build\outputs\apk\debug\app-debug.apk and install the "app-debug.apk"
+</br> Working screenshots of the application
+</br><h1>Launch the GitHub Explorer app on Android device
 </br><img src="https://user-images.githubusercontent.com/36640498/69900561-f84e6500-139a-11ea-811f-73d9baf3a1cc.jpg" width="216" height="468">
 </br> Enter the username required.
 </br><img src="https://user-images.githubusercontent.com/36640498/69900571-2633a980-139b-11ea-9b98-0bbbbb3bd89a.jpg" width="216" height="468">
