@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GitHub Explorer</string>
+    <string name="title_activity_tabs">TabsActivity</string>
+    <string name="tab_text_1">Profile Tab</string>
+    <string name="tab_text_2">Repo Tab</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_tabed">TabedActivity</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="title_activity_profile_repo">ProfileRepoActivity</string>
+</resources>
