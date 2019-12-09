@@ -72,6 +72,7 @@ public class MainActivity extends AppCompatActivity {
                     }else {
                         inputStream = urlConnection.getInputStream();
                     }
+                    
                     //read inputstream
                     BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
                     String temp,response="";
@@ -85,9 +86,6 @@ public class MainActivity extends AppCompatActivity {
                     }else {
                         //convert data string into JSONObject
                         JSONObject obj = (JSONObject) new JSONTokener(response).nextValue();
-//                        JSONArray items = obj.getJSONArray("items");
-
-                        //total result count and result status
                         nameOfUser = obj.getString("name");
                         picURL = obj.getString( "avatar_url" );
                         reposURL = obj.getString( "repos_url" );
