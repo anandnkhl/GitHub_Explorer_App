@@ -10,3 +10,6 @@ Go to directory: GitHubExplorer\app\build\outputs\apk\debug\app-debug.apk and in
 </br> App showing the output of API response with list of Pubic repo of user (Opens on browser).
 </br><img src="https://user-images.githubusercontent.com/36640498/69900667-4ca61480-139c-11ea-8c5c-7fa083789509.jpg" width="216" height="468">
 </h1>
+ToDo:
+1. Display more details for users. 
+2. Display repositories list in repo tab. 
